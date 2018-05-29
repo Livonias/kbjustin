@@ -1,0 +1,68 @@
+{
+  "global": {
+    "yes"             : "Ja",
+    "no"              : "Nee",
+    "search"          : "Zoeken",
+    "cancel"          : "Annuleren",
+    "save"            : "Opslaan",
+    "close"           : "Sluiten",
+    "lastUpdated"     : "Laatste update: ",
+
+    "pageName"        : "Naam van het artikel",
+    "addPage"         : "Artikel aanmaken",
+    "reallyDeletePage": "Weet je zeker dat je dit artikel wilt verwijderen?",
+    "mainArticles"    : "Overigen",
+    "editor"          : "Editor"
+  },
+
+  "api": {
+    "loginSuccessful"   : "Login succesvol!",
+    "invalidCredentials": "Gebruikersnaam of wachtwoord fout",
+    "pageSaved"         : "Pagina opgeslagen",
+    "pageDeleted"       : "Pagina verwijderd",
+    "categoryCreated"   : "Categorie aangemaakt",
+    "pageCreated"       : "Pagina gemaakt"
+  },
+
+  "error": {
+    "404": "Whoa, deze pagina bestaat niet!"
+  },
+
+  "edit": {
+    "preview"      : "Voorbeeld",
+    "editor"       : "Editor",
+    "pageSaved"    : "Artikel opgeslagen!",
+    "pageSaveError": "Opslaan mislukt...",
+    "headerMetaInfo" : "Meta informatie",
+    "lableMetaTitle": "Titel",
+    "lableMetaDescription": "Omschrijving",
+    "lableMetaSort": "Sortering"
+  },
+
+  "home": {
+    "searchKnowledgeBase": "Zoeken in de database..."
+  },
+
+  "login": {
+    "login"   : "Inloggen",
+    "logout"  : "Uitloggen",
+    "username": "Gebruikersnaam",
+    "password": "Wachtwoord"
+  },
+
+  "page": {
+    "addCategory": "Nieuwe categorie aanmaken...",
+    "addPage"    : "Nieuw artikel plaatsen",
+    "deletePage" : "Verwijderen",
+    "editPage"   : "Wijzigen",
+    "actions"    : "Acties",
+
+    "needHelp"   : "Hulp nodig?",
+    "getInTouch" : "Contact ons!"
+  },
+
+  "search": {
+    "resultsFor"  : "Resultaten voor",
+    "noResultsFor": "Helaas, niks gevonden voor"
+  }
+}
